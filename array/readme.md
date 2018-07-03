@@ -1,2 +1,2 @@
 # Arrays
-Exemplos e exercícios de programas usando arrays
+Exemplos e exercícios de programas usando arrays.
